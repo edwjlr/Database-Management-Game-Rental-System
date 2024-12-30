@@ -2,6 +2,13 @@
 
 This project implements a comprehensive game rental system using PostgreSQL for database management and Java for the user interface. The system includes functionalities for user management, game catalog management, rental order processing, and tracking information.
 
+## Key Features
+- **User Management**: Register, login, and update user profiles.
+- **Game Catalog**: Browse and filter games by genre and price.
+- **Rental Orders**: Place, view, and manage rental orders.
+- **Tracking**: Track orders and update their statuses.
+
+
 ## Prerequisites
 
 - Java Development Kit (JDK)
